@@ -1,0 +1,5 @@
+runs/
+inbox/*.md
+inbox/done/
+evals/tmp-*
+__pycache__/
